@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-GIT_AUTHOR_EMAIL="k947g323@gmail.com" && GIT_AUTHOR_NAME="Kaden Cowan" && git commit
+
 
 //Requires:the user to have entered at least one item and saved it
 //Effects: reads total from outputfile.txt and passes "your saved total" and the
